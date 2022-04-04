@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contenido {
+    width: 500px;
+    margin: 0 auto;
+}
+.superior{
+    margin-top: 40px;
+    background-color: white;
+    align-items: center;
+    height: 80px;
+    font-size: 14px;
+}
+.iconos{
+    
+    text-align: left;
+    background-color: white;
+    display:flex;   
+    font-size: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+   
+
+}
+.right {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.left{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+   
+}
+.comentarios {
+    background-color: white;
+    width: 500px;
+    margin-top: 10px;
+    margin: auto;
+    font-size: 14px;
+    
+    
+}
+.fa-brands{
+    font-size: 30px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    
+}
+.fa-solid{
+    float: right;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+h1 {
+    font-size: 14px;
+    padding-top: 20px;
+    margin-left: 50px;
+   
+}
+h2 {
+    font-size: 14px;
+    margin-left: 50px;
+   
+}
+p {
+    padding: 10px;
+}
+img {
+    display: flex;
+}
+
+    
